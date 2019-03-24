@@ -1,0 +1,10 @@
+com\app\bean\Affiliate.class
+com\app\bean\Item.class
+com\app\CodeChallengeApp.class
+com\app\bean\Customer.class
+com\app\bean\User.class
+com\app\bean\Employee.class
+com\app\bean\ItemType.class
+com\app\controller\BillController.class
+com\app\logic\BillManager.class
+com\app\repository\BillData.class

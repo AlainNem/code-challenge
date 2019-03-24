@@ -1,0 +1,11 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+code-challenge,com.app.logic,BillManager,0,16,0,0,0,4,0,2,0,2
+code-challenge,com.app,CodeChallengeApp,5,3,0,0,2,1,1,1,1,1
+code-challenge,com.app.repository,BillData,2,26,0,4,1,7,1,4,1,2
+code-challenge,com.app.bean,Item,22,21,0,0,10,8,6,3,6,3
+code-challenge,com.app.bean,ItemType,0,24,0,0,0,2,0,1,0,1
+code-challenge,com.app.bean,User,29,229,0,0,14,23,8,5,8,5
+code-challenge,com.app.bean,Customer,3,64,0,6,2,13,1,5,1,2
+code-challenge,com.app.bean,Affiliate,3,60,0,4,2,12,1,4,1,2
+code-challenge,com.app.bean,Employee,3,60,0,4,2,12,1,4,1,2
+code-challenge,com.app.controller,BillController,0,15,0,0,0,3,0,2,0,2
