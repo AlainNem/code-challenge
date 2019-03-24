@@ -16,23 +16,23 @@ as a discount).
 * Clone repository
 `> git clone https://github.com/AlainNem/code-challenge.git`
 
-*Maven installation:
-  -Download maven from : https://maven.apache.org/download.cgi
-  -unzip the distribution archive in any directory
-  -Add the bin directory of the created directory apache-maven-*version_level* to the PATH environment variable
+* Maven installation:
+1. Download maven from : https://maven.apache.org/download.cgi
+2. unzip the distribution archive in any directory
+3. Add the bin directory of the created directory apache-maven-*version_level* to the PATH environment variable
 
 * Navigate to the  project directory
 `> cd code-challenge/code-challenge`
-  -open a command line here
-  -run the command "mvn compile"
+1. open a command line here
+2. run the command "mvn compile"
   
 * To run the tests:
-  -run the command "mvn test" 
-  -The result will indicate the number of tests applied, failures and errors
+1. run the command "mvn test" 
+2. The result will indicate the number of tests applied, failures and errors
   
 * Coverage report:
-  -After running the command "mvn test"
-  -Navigate threw the project directories to target/site/jacoco
-  -open the index.html file and review the report
+1. After running the command "mvn test"
+2. Navigate threw the project directories to target/site/jacoco
+3. open the index.html file and review the report
   
   
