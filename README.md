@@ -1,6 +1,6 @@
-#Bill calculation
+# Bill calculation
 
-##Description
+## Description
 
 Using springboot, write a program that finds a bill's net payable amount using these rules:
 1. If the user is an employee of the store, he gets a 30% discount
@@ -11,7 +11,7 @@ as a discount).
 5. The percentage based discounts do not apply on groceries.
 6. A user can get only one of the percentage based discounts on a bill.
 
-###Installation:
+### Installation:
 
 * Clone repository
 `> git clone https://github.com/AlainNem/code-challenge.git`
